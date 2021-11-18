@@ -1,0 +1,25 @@
+
+
+tr:hover {
+    background-color: rgb(226, 206, 218)
+}
+a:hover {
+    background-color: rgb(248, 196, 166);
+
+}
+
+body {
+    margin-bottom: 100px;
+    background-color:rgb(249, 250, 248);
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(192, 191, 189);
+    color:black; 
+    text-align: left;
+ }

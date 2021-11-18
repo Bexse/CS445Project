@@ -1,0 +1,22 @@
+a:hover {
+    background-color: rgb(247, 196, 189);
+
+}
+
+body {
+    margin-bottom: 100px;
+    background-color:rgb(250, 249, 244)
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 18, 16);
+    color:white; 
+    text-align: center;
+ }
+ #header {
+    background-color:rgb(130, 151, 151)
+
+}

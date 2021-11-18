@@ -1,0 +1,26 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 100px;
+    background-color:rgb(236, 248, 248)
+}
+#header {
+    background-color:rgb(130, 151, 151)
+
+}
+
+a:hover {
+    background-color: rgb(222, 235, 168);
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 18, 16);
+    color:white; 
+    text-align: left;
+ }
